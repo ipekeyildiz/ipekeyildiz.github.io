@@ -7,8 +7,8 @@ body {
 
 /* Başlık Stili */
 header {
-    background-color: #e16363; /* Menü arka plan rengi */
-    color: white;
+    background-color: #7bbc8e7c; /* Menü arka plan rengi */
+    color: rgb(181, 82, 82);
     padding: 20px;
     text-align: center;
 }
@@ -26,7 +26,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(181, 82, 82);
     text-decoration: none;
     font-size: 18px;
     font-weight: bold;
